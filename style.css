@@ -79,7 +79,7 @@ p.developer {
     border-radius: 16px;
 }
 .bio-link a {
-    color: white;
+    color: rgba(255, 255, 255, 1);
     font-family: "Inter", sans-serif;
     font-size: 16px;
     text-decoration: none;
